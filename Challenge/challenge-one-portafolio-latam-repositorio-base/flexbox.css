@@ -1,0 +1,19 @@
+/* Cabecera */
+
+.menu__header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position:fixed;
+    top: 0;
+}
+
+/* Menú */
+
+.menu__list{
+    display: flex;
+    justify-content: space-around;
+    height: 100%;
+    align-sel
+}
+
